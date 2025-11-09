@@ -1,0 +1,76 @@
+===== Portfolio Statistics =====
+Asset: RELIANCE.NS
+  Start Price: 1086.57
+  End Price: 1283.73
+  Shares Held: 0.0
+  Capital Allocated: 0.00
+  Percentage Return: 18.15%
+
+Asset: TCS.NS
+  Start Price: 3514.45
+  End Price: 3730.87
+  Shares Held: 0.0
+  Capital Allocated: 0.00
+  Percentage Return: 6.16%
+
+Asset: HDFCBANK.NS
+  Start Price: 1432.41
+  End Price: 1686.22
+  Shares Held: 1745.0
+  Capital Allocated: 442,900.04
+  Percentage Return: 17.72%
+
+Asset: INFY.NS
+  Start Price: 1613.90
+  End Price: 1504.16
+  Shares Held: 0.0
+  Capital Allocated: -0.00
+  Percentage Return: -6.80%
+
+Asset: ICICIBANK.NS
+  Start Price: 764.73
+  End Price: 988.09
+  Shares Held: 3269.0
+  Capital Allocated: 730,165.99
+  Percentage Return: 29.21%
+
+Asset: BAJFINANCE.NS
+  Start Price: 6910.65
+  End Price: 7291.15
+  Shares Held: 361.0
+  Capital Allocated: 137,359.97
+  Percentage Return: 5.51%
+
+Asset: HINDUNILVR.NS
+  Start Price: 2174.59
+  End Price: 2627.78
+  Shares Held: 0.0
+  Capital Allocated: 0.00
+  Percentage Return: 20.84%
+
+Asset: ITC.NS
+  Start Price: 199.25
+  End Price: 447.47
+  Shares Held: 12547.0
+  Capital Allocated: 3,114,488.72
+  Percentage Return: 124.58%
+
+Asset: TATAMOTORS.NS
+  Start Price: 514.55
+  End Price: 777.55
+  Shares Held: 0.0
+  Capital Allocated: 0.00
+  Percentage Return: 51.11%
+
+Asset: SBIN.NS
+  Start Price: 511.35
+  End Price: 631.46
+  Shares Held: 0.0
+  Capital Allocated: 0.00
+  Percentage Return: 23.49%
+
+===== Final Portfolio Statistics =====
+Initial Portfolio Value: 9,994,193.13
+Final Portfolio Value: 14,419,107.86
+Total Portfolio Return: 44.27%
+Portfolio Standard Deviation: 0.07
